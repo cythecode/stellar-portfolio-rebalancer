@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2109-spr-2026-185-test-reproduce-portfolio-api",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2109-spr-2026-185-test-reproduce-portfolio-api": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2109-spr-2026-185-test-reproduce-portfolio-api",
+    "origin"
+  ]
+}
